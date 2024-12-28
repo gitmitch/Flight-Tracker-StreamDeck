@@ -21,9 +21,4 @@
     </Reference>
   </ItemGroup>
 
-	<PropertyGroup>
-		<PlatformTarget>x64</PlatformTarget>
-	</PropertyGroup>
-
-
 </Project>
